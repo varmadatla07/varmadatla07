@@ -1,7 +1,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px>, I am Varma Venkata Satyanarayana Datla
 
+---
+I am a Computer Science student studying at Gitam University, India. I am enthusiastic to learn new Technologies and develop my Technical Skills. I am a Core Team Memeber Of GDSC(Google Developer Student Club). I look forward to engage in new projects and learn skills effectively
+
+
 <!--
 **varmadatla07/varmadatla07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+
+
 
 Here are some ideas to get you started:
 
