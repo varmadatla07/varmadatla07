@@ -10,7 +10,6 @@ ToolBox
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express Logo" width = 50px height = 50px mx-4 />
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django Logo" width = 50px height = 50px mx-3 /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb Logo" width = 50px height = 50px /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql Logo" width = 50px height = 50px mx-3/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="Sqlite3 Logo" width = 50px height = 50px /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width = 50px height = 50px />  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github Logo" width = 50px height = 50px />  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java Logo" width = 50px height = 50px />  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm Logo" width = 50px height = 50px />
 
